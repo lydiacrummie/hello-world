@@ -1,3 +1,7 @@
 This is an awesome workshop
 
 Git is working fine for me  
+
+Git did not show me the diff
+
+Git is always asking me about username
